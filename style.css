@@ -1,0 +1,533 @@
+body,html{
+	height: 100%
+}
+.container{
+    
+    
+    width: 1170px;
+}
+.navbar navbar-inverse{
+	position: relative;
+	background-color: #ffffff;
+}
+.container-fluid{
+
+	margin-left:50px;
+}
+.navbar-logo>img{
+
+	
+	height: 30px;
+
+}
+.navbar-header {
+	margin-right: 700px;
+	
+	font-family: 'Great Vibes', cursive;
+	font-weight: 900;
+	height: 10px;
+	color: #fff;
+}
+
+
+/*new................*/
+.abour-us{
+	text-align: center;
+	font-size: 24pt;
+}
+.img-area .single-img>img{
+	position: relative;
+	
+}
+
+
+.single-img-1>img{
+	border-bottom: 5px solid white;
+}
+
+
+.single-img-1{
+	background-color:#3a9dca;
+		color: #ffffff;
+	text-align: center;
+}
+/*2..........*/
+
+.single-img-2>img{
+	border-bottom: 5px solid white;
+}
+
+
+.single-img-2{
+	background-color:#282828;
+	color: #ffffff;
+		text-align: center;
+}
+/*33333*/
+
+.single-img-3>img{
+	border-bottom: 5px solid white;
+	
+}
+
+.single-img-3{
+	background-color:white;
+	color: black;
+		text-align: center;
+
+}
+
+.background img{
+	position: absolute;
+	bottom: 185px;
+	margin-left: 10px;
+}
+.about-area{
+position: relative;
+	padding-bottom: 40px;
+font-family: 'Cinzel Decorative', cursive;
+}
+.about-area h1{
+
+font-weight: 900;
+    color: #42b3e5;
+font-family: 'Cinzel Decorative', cursive;
+}
+.background img{
+	height: 55px;
+	position: relative;
+}
+.position h1{
+	position: absolute;
+	bottom: 185px;
+margin-left: 170px;
+	color: blue;
+
+}
+.abour-us h1{
+ font-weight: 400;
+	font-size: 50pt;
+	
+}
+.abour-us p{
+;
+	font-size: 20px;
+	
+}
+/*our-service....................*/
+.services{
+	background-color: #046088;
+	position: relative;
+	padding-top: 20px;
+	color: #ffffff;
+background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;
+	
+}
+.problem-area{
+	background-color: #3a9cc8;
+	font-family: 'Old Standard TT', serif;
+}
+.symble img {
+	
+position: absolute;
+	bottom: 145px;
+	margin-left: 50px;
+}
+
+
+
+.symble-2 img {
+	
+position: absolute;
+	bottom: 118px;
+	margin-left: 85px;
+
+}
+
+
+.symble-3 img {
+	
+position: absolute;
+	bottom: 128px;
+	margin-left: 65px;
+}
+
+
+
+
+.symble-4 img {
+	
+position: absolute;
+	bottom: 128px;
+	margin-left: 70px;
+}
+
+.services h1{
+		font-size: 50pt;
+	text-align: center;
+	border-bottom: 1px solid white;
+font-family: 'Cinzel Decorative', cursive;;
+	
+}
+.services p{
+		text-align: center;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+
+/*main,,,,,,,,,,,,,,,,,,,,,*/
+.hiro-area{
+	
+	position: absolute;
+	bottom: 340px;
+	margin-left: 180px;
+}
+
+
+
+.hiro-area h1{
+	font-family: 'Cinzel Decorative', cursive;
+ font-weight: 900;
+	font-size: 60pt;
+	color: #ffffff;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.hiro-area p{
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 20px;
+	color: #ffffff;
+	padding-bottom: 30px;
+	text-shadow: 2px 2px 4px #000000;
+}
+.hiro-area a{
+	border-radius: 2px;
+	background-color: #3a9cc8;
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+}
+
+.array-box{
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 1.4;
+	
+	
+	
+}
+
+
+
+.img-area-3 {
+max-width: 300px;
+}
+.img-area-4 {
+max-width: 300px;
+    
+}
+
+.div-box{
+	position: relative;
+	max-width: 300px;
+	height: 190px;;
+	border: 2px solid #3a9cc8;
+	margin: 100px auto;
+	padding: 30px;
+	box-sizing: border-box;
+	background-color: #3a9cc8;
+	bottom: 100px;
+	color: white;
+	
+    
+	
+}
+.div-box-3{
+	position: relative;
+	max-width: 300px;
+	height: 190px;;
+	border: 2px solid #3a9cc8;
+	margin: 100px auto;
+	padding: 30px;
+	box-sizing: border-box;
+	background-color: #3a9cc8;
+	bottom: 250px;
+	color: white;
+	
+    
+	
+}
+.div-box-x{
+	position: ab;
+	max-width: 300px;
+	height: 190px;;
+	border: 2px solid #3a9cc8;
+	margin: 100px auto;
+	padding: 30px;
+	box-sizing: border-box;
+	background-color: #3a9cc8;
+	bottom: 250px;
+	color: white;
+	
+    
+	
+}
+.div-box:after{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-top: 0px solid #3a9cc8;
+	border-left: 0px solid #3a9cc8;
+	border-right: 2px solid #3a9cc8;
+	border-bottom: 2px solid #3a9cc8;
+	top: 100%;
+	left: 50%;
+	margin-left: -25px;
+	content: '';
+	transform: rotate(45deg);
+	margin-top: -20px;
+	background-color: #3a9cc8
+	}
+
+.div-box-3:after{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-top: 0px solid #3a9cc8;
+	border-left: 0px solid #3a9cc8;
+	border-right: 2px solid #3a9cc8;
+	border-bottom: 2px solid #3a9cc8;
+	top: 100%;
+	left: 50%;
+	margin-left: -25px;
+	content: '';
+	transform: rotate(45deg);
+	margin-top: -200px;
+	background-color: #3a9cc8
+	}
+
+.about-img img{
+	height: 200px;
+	width: 200px;
+	
+}
+
+
+
+
+.box-area{
+font-size: 11px;
+    color:white;
+    
+
+}
+.div-box-2{
+	
+
+	
+}
+
+.about-img-2 img {
+	height: 180px;
+	width: 200px;
+	
+    position: absolute;
+	bottom: px;
+	
+}
+.team-area h1{
+	
+	text-align: center;
+	font-family: 'Cinzel Decorative', cursive;
+   font-weight: 800;
+	color: #42b3e5;
+    border-bottom: 1px solid #3a9dca;padding-bottom: 5px;
+	
+	
+}
+
+.team-area h3{
+	
+	text-align: center;
+	font-family: 'Cinzel Decorative', cursive;
+   font-size: 20px;
+	color: #737373;
+	padding-bottom: 40px;
+	
+	
+}
+.img-area-4 {
+    position: relative
+        ;
+bottom: 190px;
+    
+}
+.team-area {
+    background-color: white;
+    display: flex;
+    padding-top: 50px;
+    margin-bottom: -250px;
+}
+
+/*contact......................*/
+.contac-point{
+    background-color: #3a9dc9;
+    position: absolute;
+}
+.info img{
+    margin-right: 15px;
+  margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.info img.4
+{
+  margin-right:100px
+}
+.bg img{
+    /* IE6-9 */
+  
+   position: relative;
+    height: 650px;
+    width: 1500px;
+    
+}
+
+.bg img{
+    /* IE6-9 */
+  
+  
+    height: 650px;
+    width: 1500px;
+    
+}
+                     
+                      
+                      
+.contac-point {
+    background-image: url(img/map.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 700px;
+    /* height: calc(100% - 96px); */
+    position: relative;
+
+}                     
+ 
+.contac-point :before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+27,0.8+100 */
+    background: #000;
+   /* Permalink - use to edit and share this gradient: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4c4c4c+0,131313+100&0.6+0,0.4+100 */
+background: -moz-linear-gradient(top, rgba(76,76,76,0.6) 0%, rgba(19,19,19,0.4) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(76,76,76,0.6) 0%,rgba(19,19,19,0.4) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(76,76,76,0.6) 0%,rgba(19,19,19,0.4) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#994c4c4c', endColorstr='#66131313',GradientType=0 ); /* IE6-9 */
+    
+}    
+                      
+                      
+ 
+
+.mid-item input, 
+.mid-item textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #3a9dc9;
+    margin-bottom: 10px;
+    resize: none;
+    background-color: white;
+}        
+
+
+.mid-item textarea {
+    min-height: 150px;
+}
+
+input:focus,
+textarea:focus {
+    outline:none;
+}
+
+
+.mid-item  input[type="submit"] {
+    width: auto;
+    background-color: #e8bf5d;
+    border-radius: 30px;
+    color: black;
+    padding: 10px 20px;
+}
+
+
+.mid-item {
+    position: absolute;
+    background-color: #3a9dc9;
+   margin-left: 90px;
+   margin-right:80px;
+    -moz-margin-right:80px;
+    bottom:-2500px;
+    background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;
+   
+}
+
+.mid-item .container{
+   
+}
+.mid-item h1{
+    text-align: center;
+    color: white;
+    font-family: 'Cinzel Decorative', cursive;
+   
+}
+
+
+
+.mid-item h2,span{
+font-family: 'Cinzel Decorative', cursive;
+    
+    color: white;
+}
+.mid-item h2{
+    border-bottom: 1px solid white;
+    margin-bottom:30px;
+    padding-bottom: 10px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
